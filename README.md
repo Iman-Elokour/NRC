@@ -3,9 +3,12 @@
     <br>
 </p>
 
-login here http://vast-retreat-87058.herokuapp.com/site/login using:
+<p>login here http://vast-retreat-87058.herokuapp.com/site/login</p>
+<br>
 username: admin
+<br>
 password: 12345678
+</p>
 
 public url to fill form:
 https://vast-retreat-87058.herokuapp.com/contact-us
