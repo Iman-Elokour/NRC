@@ -14,9 +14,9 @@ return [
     'components' => [
         'db' => [
             'class' => 'yii\db\Connection',
-            'dsn' => 'mysql:host=' . $host . ';dbname=' . $dbname,
-            'username' => $username,
-            'password' => $password,
+            'dsn' => 'mysql:host=sql11.freemysqlhosting.net;dbname=sql11509610',
+            'username' => 'sql11509610',
+            'password' => 'Uw8tXLQW8u',
             'charset' => 'utf8',
         ],
         'mailer' => [
